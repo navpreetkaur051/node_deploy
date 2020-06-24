@@ -25,7 +25,7 @@ app.get('',(req,res)=>{
     var http = require('http');
 
 res.writeHead(200);
-res.end('Hi TEAMMMM!');
+res.end('Hi EVERYONE!');
 });
     // res.json({
     //     msg:'begin'
