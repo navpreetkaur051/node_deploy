@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
@@ -11,14 +16,10 @@
     "type": "git",
     "url": "git+https://github.com/navpreetkaur051/node_deploy.git"
   },
-  "author": "",
+  "author": "navpreet kaur",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/navpreetkaur051/node_deploy/issues"
   },
-  "homepage": "https://github.com/navpreetkaur051/node_deploy#readme",
-  "dependencies": {
-    "express": "^4.17.1",
-    "morgan": "^1.10.0"
-  }
+  "homepage": "https://github.com/navpreetkaur051/node_deploy#readme"
 }
